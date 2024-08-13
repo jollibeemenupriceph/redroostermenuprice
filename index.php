@@ -58,7 +58,8 @@
 
         <img src="<?php echo 'https://redroostermenu.com/wp-content/uploads/2024/06/converted-image-15-1.webp'; ?>" alt="Red Rooster Meal" width="500" height="500">
 
-        <p>When you think of Red Rooster, the first thing that comes to mind is their delicious, juicy chicken. But to truly enjoy your meal, you need the perfect sides and drinks to go with it. This article will help you discover the best combinations to make your Red Rooster meal even more satisfying. We’ve made it super easy to follow along!</p>
+        <p>When you think of Red Rooster, the first thing that comes to mind is their delicious, juicy chicken. But to truly enjoy your meal, you need the <a href="https://redroostermenu.com/">perfect sides</a> and drinks to go with it. This article will help you discover the best combinations to make your Red Rooster meal even more satisfying. We’ve made it super easy to follow along!</p>
+
 
         <h2 class="section-title">1. Crispy Chips with Classic Roast Chicken</h2>
         <p>Nothing complements Red Rooster’s Classic Roast Chicken quite like their crispy, golden chips. These thick-cut chips are perfectly seasoned, with just the right amount of crunch on the outside and softness on the inside. Dipping them in gravy or ketchup adds an extra layer of flavor that’s hard to resist.</p>
